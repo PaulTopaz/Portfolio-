@@ -91,4 +91,4 @@ After much deliberation and experimentation with different numbers of topics, we
 
 Link to Delimited Text File: http://shot.holycross.edu/ada-vases.tsv
 
-Link to our work on a Jupyter Notebook:
+Link to our work on a Jupyter Notebook: https://mybinder.org/v2/gh/PaulTopaz/Portfolio-/81a6af4d4d0c6e76d4712a21a1d61d0863d1802f
